@@ -1,0 +1,251 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_audience,channel_focus,promotion_type,success_metric,duration_days,log_budget,budget_log,campaign_name_realistic
+CAMP-1000,Flash Blast,Social Media,2024-04-27,2024-06-29,39912.59,Seniors,Multi-Channel,BOGO,Brand Awareness,63,10.59447214639019,10.59444709195316,Stride Winter Offer
+CAMP-1001,Summer Deal,TV,2022-06-01,2022-07-12,149377.17,Young Adults,Email Only,Bundle Deal,Brand Awareness,41,11.914236423200055,11.914229728759047,Ignite Autumn Fest
+CAMP-1002,Loyalty Special,TV,2024-08-25,2024-10-22,194966.05,Young Adults,Online,Gift with Purchase,Revenue,58,12.180585848909134,12.180580719824171,Stride Autumn Event
+CAMP-1003,Fall Blast,Radio,2022-11-28,2023-01-06,160496.84,Young Adults,Mobile,Discount,Revenue,39,11.986035763517723,11.986029532884867,Momentum Winter Event
+CAMP-1004,Winter Deal,Email,2022-08-07,2022-08-19,16112.0,Seniors,Mobile,Gift with Purchase,Revenue,12,9.68738167857357,9.687319614958344,Voyage Winter Event
+CAMP-1005,Holiday Bonanza,Social Media,2023-05-25,2023-07-02,20416.96,Families,Mobile,Gift with Purchase,Brand Awareness,38,9.924170184671306,9.924121206982592,Boost Spring Offer
+CAMP-1006,Spring Sale,PPC,2023-04-29,2023-07-26,28786.36,Seniors,Mobile,Gift with Purchase,Revenue,88,10.267691680895231,10.26765694282376,Boost Summer Flash
+CAMP-1007,Super Event,Social Media,2022-09-17,2022-11-06,31376.57,Professionals,In-Store,Bundle Deal,Traffic,50,10.353848585430049,10.353816715022772,Voyage Back-to-School Sale
+CAMP-1008,Spring Special,Social Media,2024-08-28,2024-09-14,36170.56,High Income,Mobile,Free Shipping,Customer Acquisition,17,10.496028453681555,10.496000807270306,Elevate Spring Bonanza
+CAMP-1009,Mega Bonanza,TV,2024-07-22,2024-09-12,59665.63,Families,Mobile,Cashback,Brand Awareness,52,10.996528181629454,10.996511421702172,Momentum Winter Event
+CAMP-1010,Summer Blast,Radio,2022-03-23,2022-05-28,100740.47,Seniors,Multi-Channel,BOGO,Conversions,66,11.520312811212237,11.52030288476424,Inspire Autumn Bonanza
+CAMP-1011,Spring Promotion,Social Media,2022-07-19,2022-09-22,48854.87,Young Adults,In-Store,Cashback,Conversions,65,10.796629814018475,10.796609345439482,Elevate Autumn Sale
+CAMP-1012,Weekend Bonanza,Print,2023-03-15,2023-05-11,16611.77,Students,Email Only,BOGO,Revenue,57,9.717926955711096,9.717866759241842,Surge Back-to-School Fest
+CAMP-1013,Super Bonanza,PPC,2022-09-13,2022-10-05,14798.02,Professionals,Email Only,BOGO,Brand Awareness,22,9.6023162413436,9.602248667018573,Elevate Autumn Offer
+CAMP-1014,New Customer Promotion,Influencer,2023-06-03,2023-07-20,16102.21,Professionals,In-Store,Gift with Purchase,Conversions,47,9.686773909981214,9.686711808633037,Voyage Autumn Blast
+CAMP-1015,Loyalty Bonanza,Email,2024-04-16,2024-05-15,1939.89,Young Adults,Multi-Channel,Bundle Deal,Traffic,29,7.570901909744452,7.570386549418882,Inspire Summer Fest
+CAMP-1016,Super Sale,PPC,2023-07-28,2023-10-17,40021.79,Professionals,Mobile,Cashback,Customer Acquisition,81,10.597204320850166,10.597179334773655,Inspire Summer Fest
+CAMP-1017,Summer Sale,Social Media,2022-03-04,2022-05-05,31265.93,Families,Mobile,Cashback,Conversions,62,10.35031626846558,10.350284285281056,Revive Back-to-School Wave
+CAMP-1018,New Customer Event,Radio,2023-02-11,2023-03-29,153137.51,Seniors,In-Store,Gift with Purchase,Revenue,46,11.939098084960646,11.939091554903216,Revive Spring Wave
+CAMP-1019,Weekend Special,Social Media,2024-08-25,2024-10-05,33129.16,Students,In-Store,Discount,Traffic,41,10.408199324741984,10.40816914030906,Momentum Holiday Flash
+CAMP-1020,Back-to-School Bonanza,Radio,2023-02-19,2023-03-10,87706.15,Families,In-Store,Free Shipping,Traffic,19,11.3817587029732,11.381747301329195,Momentum Back-to-School Wave
+CAMP-1021,New Customer Special,Influencer,2024-09-09,2024-10-15,2925.65,Young Adults,In-Store,Cashback,Customer Acquisition,36,7.981613703184017,7.981271957200478,Elevate Spring Blast
+CAMP-1022,Mega Bonanza,Affiliate,2023-04-19,2023-07-09,20137.86,Young Adults,In-Store,Discount,Conversions,81,9.910406560896915,9.910356904420409,Elevate Holiday Bonanza
+CAMP-1023,Super Event,Print,2022-04-28,2022-07-04,2672.32,Professionals,Email Only,Bundle Deal,Traffic,67,7.8910764246488405,7.8907022879648645,Surge Autumn Fest
+CAMP-1024,Loyalty Sale,Email,2022-10-11,2022-12-05,16649.17,Seniors,Mobile,Bundle Deal,Traffic,55,9.720175705566676,9.720115644316195,Inspire Autumn Fest
+CAMP-1025,Flash Sale,Social Media,2023-04-02,2023-06-03,11818.76,Young Adults,Mobile,Discount,Traffic,62,9.37752798618542,9.377443378519578,Boost Holiday Bonanza
+CAMP-1026,Weekend Special,Radio,2023-02-19,2023-04-02,176867.22,Families,Multi-Channel,Discount,Revenue,42,12.083160214489466,12.083154560546507,Revive Summer Wave
+CAMP-1027,Flash Blast,TV,2023-05-11,2023-08-05,165194.73,Students,Multi-Channel,BOGO,Revenue,86,12.014886292277337,12.014880238833783,Revive Spring Event
+CAMP-1028,Fall Blast,Affiliate,2023-10-27,2023-12-14,10106.87,Young Adults,Multi-Channel,Discount,Brand Awareness,48,9.221069607325262,9.220970669619328,Stride Back-to-School Offer
+CAMP-1029,Weekend Blast,Social Media,2024-07-18,2024-09-03,34909.83,Families,Online,Discount,Customer Acquisition,47,10.460552375238965,10.460523730422372,Pulse Summer Wave
+CAMP-1030,Back-to-School Event,Radio,2023-06-25,2023-09-01,70754.47,Seniors,In-Store,Discount,Customer Acquisition,68,11.166985127004505,11.166970993721712,Voyage Autumn Flash
+CAMP-1031,Flash Event,Print,2022-03-30,2022-06-14,14526.21,Seniors,Online,Free Shipping,Brand Awareness,76,9.583778721609248,9.583709882897633,Voyage Winter Sale
+CAMP-1032,Summer Sale,Influencer,2023-01-04,2023-02-01,7527.93,Budget Conscious,Multi-Channel,Discount,Customer Acquisition,28,8.926508212423451,8.926375382603492,Momentum Back-to-School Event
+CAMP-1033,Back-to-School Sale,Affiliate,2023-05-30,2023-06-28,12072.68,Young Adults,Multi-Channel,BOGO,Revenue,29,9.398783155775073,9.398700327555783,Momentum Spring Offer
+CAMP-1034,Winter Deal,Radio,2023-01-01,2023-02-02,167741.88,Young Adults,In-Store,BOGO,Traffic,32,12.030187609819887,12.030181648297225,Surge Winter Flash
+CAMP-1035,Super Bonanza,Influencer,2023-10-10,2024-01-03,1540.49,Seniors,Online,Discount,Customer Acquisition,85,7.340504760117359,7.339855826616757,Momentum Back-to-School Event
+CAMP-1036,Loyalty Sale,Social Media,2024-08-30,2024-10-14,39291.52,Young Adults,Mobile,BOGO,Traffic,45,10.578789448953346,10.578763998492919,Elevate Autumn Fest
+CAMP-1037,Holiday Deal,TV,2022-08-02,2022-10-18,67689.96,Seniors,Online,Discount,Customer Acquisition,77,11.122707919703755,11.122693146573242,Elevate Winter Offer
+CAMP-1038,Weekend Special,PPC,2022-07-26,2022-08-08,24813.54,Families,Multi-Channel,BOGO,Traffic,13,10.11918505067463,10.119144750908847,Ignite Winter Wave
+CAMP-1039,Loyalty Blast,Social Media,2022-09-30,2022-11-01,37517.64,Young Adults,Multi-Channel,BOGO,Revenue,32,10.532593155128456,10.532566501355106,Voyage Holiday Blast
+CAMP-1040,Mega Special,TV,2023-05-13,2023-05-26,127229.55,Professionals,Email Only,Free Shipping,Conversions,13,11.753756074007226,11.753748214228818,Surge Winter Bonanza
+CAMP-1041,Fall Promotion,Influencer,2022-05-05,2022-07-30,12496.72,Young Adults,Online,Free Shipping,Revenue,86,9.433301506653489,9.43322148885749,Revive Back-to-School Flash
+CAMP-1042,Mega Sale,TV,2024-08-30,2024-10-15,156402.19,Professionals,Mobile,Cashback,Revenue,46,11.96019250330478,11.960186109552858,Voyage Autumn Wave
+CAMP-1043,New Customer Event,Affiliate,2022-08-02,2022-08-26,6886.45,Professionals,Email Only,Discount,Customer Acquisition,24,8.83745619390669,8.83731099174873,Surge Autumn Sale
+CAMP-1044,New Customer Sale,Email,2024-06-28,2024-07-29,5968.81,Families,Email Only,BOGO,Conversions,31,8.694470380084551,8.694302856534536,Inspire Holiday Event
+CAMP-1045,Fall Promotion,Social Media,2023-06-06,2023-08-12,30746.53,High Income,Multi-Channel,BOGO,Conversions,67,10.33356494480517,10.333532421338672,Surge Winter Fest
+CAMP-1046,Summer Promotion,Affiliate,2023-01-09,2023-03-31,6104.09,Students,In-Store,BOGO,Brand Awareness,81,8.716878128450885,8.716714317285478,Voyage Winter Sale
+CAMP-1047,Winter Special,PPC,2024-06-26,2024-09-05,34222.09,Seniors,Email Only,Cashback,Customer Acquisition,71,10.440655841440861,10.440626620975664,Elevate Holiday Offer
+CAMP-1048,Flash Special,Affiliate,2023-02-13,2023-03-28,16275.75,Young Adults,Multi-Channel,Gift with Purchase,Traffic,43,9.69749298817789,9.697431548964293,Revive Holiday Bonanza
+CAMP-1049,New Customer Sale,PPC,2024-02-13,2024-04-10,25606.88,Budget Conscious,Multi-Channel,BOGO,Customer Acquisition,57,10.150655395603106,10.150616344360841,Voyage Summer Offer
+CAMP-1050,Holiday Promotion,TV,2024-05-22,2024-07-07,83771.27,Budget Conscious,Online,Free Shipping,Traffic,46,11.335857324787158,11.335845387591608,Momentum Spring Event
+CAMP-1051,Super Blast,Email,2023-07-02,2023-09-21,20050.21,High Income,Online,Bundle Deal,Conversions,81,9.906044780040961,9.905994906495327,Revive Summer Flash
+CAMP-1052,New Customer Promotion,Influencer,2024-07-27,2024-08-22,8551.23,Families,Mobile,Cashback,Conversions,26,9.053947346636969,9.053830411233122,Pulse Winter Offer
+CAMP-1053,Spring Promotion,TV,2023-01-14,2023-03-15,78725.83,Professionals,Multi-Channel,Free Shipping,Customer Acquisition,60,11.273739291173808,11.273726588943182,Pulse Spring Offer
+CAMP-1054,Weekend Special,Email,2022-01-28,2022-04-20,5716.88,Students,Online,Bundle Deal,Brand Awareness,82,8.651353386303173,8.651178481013941,Inspire Summer Fest
+CAMP-1055,Back-to-School Event,PPC,2023-12-11,2024-03-08,42479.39,Seniors,Multi-Channel,Cashback,Conversions,88,10.656797836664637,10.656774296114037,Revive Spring Offer
+CAMP-1056,Spring Deal,Influencer,2022-12-07,2023-02-25,7715.46,Young Adults,Mobile,BOGO,Conversions,80,8.951110988630179,8.950981387128694,Inspire Summer Blast
+CAMP-1057,Weekend Promotion,Radio,2023-01-01,2023-01-16,111794.69,Students,Email Only,Gift with Purchase,Conversions,15,11.624428287976128,11.62441934304746,Boost Back-to-School Bonanza
+CAMP-1058,Loyalty Blast,TV,2023-02-11,2023-03-16,139344.59,Young Adults,Email Only,BOGO,Conversions,33,11.844712385477134,11.844705209049174,Elevate Back-to-School Flash
+CAMP-1059,Loyalty Event,Influencer,2024-03-14,2024-04-28,22252.29,Young Adults,In-Store,Bundle Deal,Conversions,45,10.010245141831948,10.010200203646662,Ignite Winter Offer
+CAMP-1060,Fall Promotion,PPC,2024-05-31,2024-08-16,45615.24,High Income,Online,Discount,Brand Awareness,77,10.728019072450433,10.727997150192895,Momentum Spring Wave
+CAMP-1061,Weekend Sale,PPC,2023-05-26,2023-07-17,10377.78,Budget Conscious,In-Store,Discount,Conversions,52,9.247518616093561,9.247422261013455,Stride Back-to-School Blast
+CAMP-1062,Holiday Special,Radio,2022-04-27,2022-06-12,97837.11,Seniors,Multi-Channel,Gift with Purchase,Customer Acquisition,46,11.491069452921817,11.491059231903538,Inspire Winter Blast
+CAMP-1063,Summer Special,Print,2022-02-04,2022-04-02,12346.33,Families,Online,BOGO,Traffic,57,9.421195124350776,9.421114131901657,Pulse Back-to-School Bonanza
+CAMP-1064,Flash Deal,Social Media,2022-04-02,2022-04-28,20037.41,Professionals,Mobile,Free Shipping,Brand Awareness,26,9.905406210733746,9.90535630532943,Boost Winter Offer
+CAMP-1065,Fall Sale,PPC,2023-11-18,2024-01-22,29971.85,Young Adults,Email Only,Discount,Revenue,65,10.308047250884552,10.308013886800651,Momentum Summer Blast
+CAMP-1066,Spring Bonanza,Print,2022-09-24,2022-11-15,13039.87,Families,Email Only,Free Shipping,Customer Acquisition,52,9.475843551046522,9.475766866105797,Momentum Autumn Blast
+CAMP-1067,Mega Bonanza,TV,2023-09-15,2023-11-27,71572.49,Families,Email Only,Gift with Purchase,Brand Awareness,73,11.178480032992118,11.178466061241041,Voyage Winter Event
+CAMP-1068,New Customer Deal,Influencer,2022-08-04,2022-10-18,2541.36,Seniors,Online,Bundle Deal,Brand Awareness,75,7.840848062493171,7.840454649790309,Momentum Winter Sale
+CAMP-1069,Flash Special,Print,2023-09-28,2023-11-13,16531.34,Students,Email Only,Discount,Revenue,46,9.713073741594833,9.713013252260295,Inspire Holiday Offer
+CAMP-1070,Flash Event,Print,2023-01-04,2023-03-12,21988.3,Budget Conscious,In-Store,Bundle Deal,Revenue,67,9.998311250390932,9.998265772693188,Inspire Autumn Flash
+CAMP-1071,Winter Promotion,Radio,2024-02-21,2024-04-29,73353.41,Budget Conscious,Multi-Channel,Discount,Brand Awareness,68,11.203057904463217,11.203044271924748,Momentum Holiday Sale
+CAMP-1072,New Customer Bonanza,TV,2022-11-17,2022-12-29,99129.08,Students,In-Store,Cashback,Conversions,42,11.5041882060477,11.504178118241418,Voyage Holiday Blast
+CAMP-1073,Loyalty Event,PPC,2022-09-26,2022-10-30,34136.17,Professionals,Multi-Channel,Bundle Deal,Customer Acquisition,34,10.438142098946514,10.438112804935116,Boost Back-to-School Bonanza
+CAMP-1074,Flash Sale,Print,2023-07-01,2023-07-23,16184.5,Budget Conscious,Online,Discount,Conversions,22,9.691871058685148,9.691809273081175,Elevate Winter Bonanza
+CAMP-1075,Loyalty Special,Email,2024-04-10,2024-07-02,10988.26,Seniors,Online,Bundle Deal,Brand Awareness,83,9.30467371119069,9.30458270911214,Ignite Summer Fest
+CAMP-1076,Loyalty Special,Affiliate,2024-02-06,2024-03-02,14056.4,Professionals,Online,BOGO,Traffic,25,9.550904226500649,9.550833087060202,Surge Spring Flash
+CAMP-1077,Loyalty Sale,Influencer,2024-05-10,2024-07-22,8975.9,Young Adults,Email Only,Cashback,Revenue,73,9.10240989011572,9.102298486880454,Surge Back-to-School Offer
+CAMP-1078,Weekend Special,Affiliate,2023-10-04,2023-11-10,21393.52,High Income,Online,Discount,Revenue,37,9.970890093450846,9.970843351417317,Surge Summer Fest
+CAMP-1079,Weekend Promotion,Affiliate,2022-01-21,2022-02-16,22213.81,High Income,Email Only,BOGO,Conversions,26,10.00851446255378,10.008469446525815,Revive Winter Wave
+CAMP-1080,Summer Bonanza,Radio,2022-12-17,2023-03-03,63666.64,High Income,Email Only,Free Shipping,Customer Acquisition,76,11.061431706201914,11.061415999512402,Ignite Autumn Blast
+CAMP-1081,Black Friday Special,Radio,2022-09-15,2022-12-05,192806.85,Young Adults,Email Only,Gift with Purchase,Conversions,81,12.169449376097353,12.169444189573085,Elevate Summer Blast
+CAMP-1082,Weekend Bonanza,Print,2024-02-24,2024-05-10,1759.09,Budget Conscious,Email Only,Gift with Purchase,Traffic,76,7.473120223088414,7.472551908863558,Stride Spring Wave
+CAMP-1083,Weekend Deal,Email,2022-02-22,2022-04-22,21191.07,Seniors,Online,Bundle Deal,Conversions,59,9.961382334079708,9.961335145504242,Boost Autumn Event
+CAMP-1084,Weekend Sale,Influencer,2023-09-26,2023-10-28,12833.07,Students,In-Store,Gift with Purchase,Conversions,32,9.459858632557703,9.45978071191672,Surge Spring Offer
+CAMP-1085,Back-to-School Sale,TV,2022-07-18,2022-09-21,187263.37,Families,Multi-Channel,Cashback,Traffic,65,12.140276640758023,12.140271300699633,Momentum Summer Blast
+CAMP-1086,Weekend Sale,Print,2022-01-24,2022-04-23,2358.46,Seniors,Multi-Channel,Gift with Purchase,Customer Acquisition,89,7.766188058278518,7.765764142648335,Pulse Spring Wave
+CAMP-1087,Back-to-School Deal,Email,2022-02-07,2022-03-08,22353.31,Students,Online,Bundle Deal,Brand Awareness,29,10.01477442261356,10.01472968751023,Surge Winter Sale
+CAMP-1088,Loyalty Deal,Email,2022-01-26,2022-03-13,14484.1,Budget Conscious,Multi-Channel,Discount,Traffic,46,9.580875813873096,9.580806775031817,Revive Winter Fest
+CAMP-1089,Holiday Blast,TV,2022-02-23,2022-03-06,176987.11,Students,Mobile,Cashback,Conversions,11,12.083837834158372,12.08383218404535,Boost Holiday Wave
+CAMP-1090,Loyalty Special,Social Media,2022-10-13,2022-12-16,14350.53,Young Adults,Mobile,Gift with Purchase,Customer Acquisition,64,9.571611835713297,9.571542154303641,Stride Autumn Wave
+CAMP-1091,Summer Event,Radio,2022-05-31,2022-08-09,64613.96,Students,Email Only,Bundle Deal,Customer Acquisition,70,11.076201241907796,11.07618576549586,Momentum Holiday Flash
+CAMP-1092,Fall Sale,Affiliate,2024-06-20,2024-07-24,12559.18,Professionals,Multi-Channel,Discount,Customer Acquisition,34,9.43828677112969,9.438207151266722,Boost Summer Blast
+CAMP-1093,Winter Blast,Affiliate,2022-06-23,2022-08-07,4435.7,Young Adults,Mobile,Discount,Customer Acquisition,45,8.397666135840833,8.397440717689209,Stride Winter Event
+CAMP-1094,Mega Blast,PPC,2022-12-04,2023-02-11,48383.42,Budget Conscious,Multi-Channel,Free Shipping,Brand Awareness,69,10.786933140057085,10.786912472033492,Elevate Spring Flash
+CAMP-1095,Super Bonanza,Social Media,2023-10-24,2023-11-24,8512.05,Families,Multi-Channel,Gift with Purchase,Revenue,31,9.049355559236949,9.049238085624324,Voyage Autumn Bonanza
+CAMP-1096,Mega Bonanza,Social Media,2022-11-15,2023-02-04,20589.15,Seniors,Online,Bundle Deal,Brand Awareness,81,9.932568085085148,9.932519516993889,Stride Holiday Wave
+CAMP-1097,Mega Event,Print,2023-04-28,2023-06-30,6560.58,Families,Mobile,Cashback,Brand Awareness,63,8.788986706596086,8.788834292663937,Surge Spring Wave
+CAMP-1098,New Customer Bonanza,PPC,2024-08-11,2024-08-23,8801.26,Young Adults,Multi-Channel,Bundle Deal,Traffic,12,9.082763785675972,9.082650172034942,Revive Spring Event
+CAMP-1099,Fall Deal,Radio,2022-07-23,2022-09-20,190751.0,Seniors,Multi-Channel,Gift with Purchase,Conversions,59,12.158729434019653,12.158724191596919,Pulse Winter Flash
+CAMP-1100,Holiday Event,Social Media,2022-12-11,2023-01-22,7042.63,Families,In-Store,Free Shipping,Brand Awareness,42,8.859878941263196,8.859736958934079,Ignite Holiday Flash
+CAMP-1101,Super Deal,Print,2023-04-21,2023-05-19,15262.41,High Income,Email Only,BOGO,Revenue,28,9.633213739901187,9.633148221595677,Revive Winter Flash
+CAMP-1102,Black Friday Event,Influencer,2023-11-18,2024-01-02,13610.24,Seniors,Multi-Channel,Cashback,Conversions,45,9.51865120097362,9.518577729582612,Revive Spring Fest
+CAMP-1103,Super Blast,Influencer,2023-08-26,2023-09-04,16648.77,Budget Conscious,Email Only,Cashback,Conversions,9,9.720151681499365,9.720091618805908,Elevate Autumn Flash
+CAMP-1104,Black Friday Deal,Email,2023-05-14,2023-06-22,9743.41,Families,Email Only,Gift with Purchase,Traffic,39,9.184449066240157,9.184346438034346,Surge Spring Wave
+CAMP-1105,Flash Deal,Email,2023-12-23,2024-01-03,9634.13,High Income,Mobile,BOGO,Traffic,11,9.173171073232794,9.173067280974982,Momentum Autumn Sale
+CAMP-1106,Winter Event,TV,2023-03-26,2023-05-24,64014.65,Professionals,In-Store,BOGO,Customer Acquisition,59,11.066882863698916,11.066867242396771,Voyage Spring Flash
+CAMP-1107,Weekend Promotion,Affiliate,2023-03-15,2023-05-11,12139.64,Budget Conscious,Email Only,BOGO,Brand Awareness,57,9.404313781510584,9.404231410137555,Ignite Holiday Blast
+CAMP-1108,Back-to-School Blast,Affiliate,2023-04-08,2023-04-28,5634.28,High Income,In-Store,Discount,Conversions,20,8.63680211468039,8.63662464546196,Inspire Summer Event
+CAMP-1109,Weekend Blast,Affiliate,2024-08-26,2024-10-24,4879.46,Families,In-Store,Bundle Deal,Conversions,59,8.492994756699863,8.49278983698669,Stride Spring Offer
+CAMP-1110,New Customer Special,Email,2022-08-08,2022-09-05,17171.96,Professionals,Email Only,Bundle Deal,Revenue,28,9.751091332743393,9.751033099968339,Elevate Back-to-School Wave
+CAMP-1111,Winter Promotion,Print,2023-08-06,2023-09-27,7771.06,Seniors,Email Only,Bundle Deal,Brand Awareness,52,8.958290530488119,8.958161856193462,Surge Autumn Flash
+CAMP-1112,New Customer Special,Email,2022-04-14,2022-07-09,15596.84,Seniors,Email Only,Discount,Conversions,86,9.654887722112482,9.654823608616185,Pulse Back-to-School Bonanza
+CAMP-1113,Spring Bonanza,PPC,2024-01-12,2024-01-26,47253.83,Budget Conscious,Email Only,Free Shipping,Brand Awareness,14,10.763310149919775,10.763288987837909,Stride Holiday Wave
+CAMP-1114,Weekend Deal,Email,2023-06-29,2023-09-06,6499.99,Students,In-Store,Cashback,Conversions,69,8.779709751978396,8.779555917421007,Ignite Spring Flash
+CAMP-1115,Winter Special,Email,2022-06-18,2022-08-21,5263.18,High Income,Mobile,Discount,Conversions,64,8.568680666949408,8.568490685794968,Momentum Spring Offer
+CAMP-1116,Super Bonanza,TV,2024-02-20,2024-04-05,100974.83,Students,Multi-Channel,BOGO,Revenue,45,11.522636460254231,11.52262655684515,Voyage Back-to-School Event
+CAMP-1117,Summer Special,Print,2022-01-30,2022-02-17,10560.71,Young Adults,Email Only,Free Shipping,Customer Acquisition,18,9.264990475968892,9.264895789848577,Surge Holiday Event
+CAMP-1118,Holiday Special,Influencer,2024-06-14,2024-09-11,20693.28,Students,In-Store,Free Shipping,Brand Awareness,89,9.937612612565289,9.937564288866081,Momentum Back-to-School Fest
+CAMP-1119,Black Friday Event,Radio,2023-03-07,2023-06-05,176705.29,Young Adults,Multi-Channel,Gift with Purchase,Traffic,90,12.082244254731387,12.082238595607258,Surge Winter Sale
+CAMP-1120,Winter Sale,TV,2023-02-06,2023-04-15,102653.76,Budget Conscious,Mobile,Cashback,Traffic,68,11.53912679253612,11.539117051099185,Elevate Back-to-School Fest
+CAMP-1121,New Customer Promotion,Radio,2022-06-24,2022-07-22,90289.68,Budget Conscious,Online,Discount,Customer Acquisition,28,11.410789522561236,11.41077844715968,Boost Winter Event
+CAMP-1122,Spring Bonanza,Print,2024-03-15,2024-03-24,20879.22,Students,Mobile,BOGO,Traffic,9,9.946557578339535,9.946509684976972,Inspire Holiday Fest
+CAMP-1123,Spring Special,Social Media,2022-04-18,2022-07-04,47606.28,Seniors,In-Store,Bundle Deal,Brand Awareness,77,10.770740969701672,10.770719964290258,Revive Holiday Bonanza
+CAMP-1124,Super Special,Email,2024-08-08,2024-11-04,10378.56,Budget Conscious,Email Only,Discount,Conversions,88,9.247593766611413,9.247497418772516,Ignite Autumn Wave
+CAMP-1125,Spring Event,Affiliate,2022-08-04,2022-09-08,1409.05,Families,Multi-Channel,Cashback,Customer Acquisition,35,7.251380443736395,7.2506709974294585,Inspire Winter Fest
+CAMP-1126,Fall Blast,Affiliate,2023-02-24,2023-05-21,1757.23,Students,Email Only,BOGO,Traffic,86,7.472062900176753,7.4714939845714134,Elevate Autumn Sale
+CAMP-1127,Spring Event,PPC,2022-06-08,2022-08-20,41060.15,Students,In-Store,BOGO,Customer Acquisition,73,10.622817697974186,10.622793343756705,Voyage Winter Offer
+CAMP-1128,Summer Event,Affiliate,2023-06-05,2023-08-15,4177.07,Professionals,In-Store,Discount,Traffic,71,8.337604696404114,8.337365322795826,Revive Autumn Sale
+CAMP-1129,Summer Bonanza,Influencer,2022-09-29,2022-12-11,14710.94,Budget Conscious,Mobile,Bundle Deal,Traffic,73,9.596414687972414,9.59634671366124,Surge Summer Sale
+CAMP-1130,Back-to-School Deal,Print,2022-05-26,2022-07-13,15372.74,High Income,Email Only,Free Shipping,Traffic,48,9.640416138097022,9.640351090000436,Surge Back-to-School Offer
+CAMP-1131,Super Event,TV,2024-09-26,2024-11-02,184033.11,Students,Mobile,Gift with Purchase,Customer Acquisition,37,12.122876399845076,12.12287096605502,Revive Autumn Wave
+CAMP-1132,Back-to-School Bonanza,Email,2022-05-26,2022-07-04,7328.77,Families,Email Only,Cashback,Conversions,39,8.899699416489355,8.89956297725304,Voyage Back-to-School Flash
+CAMP-1133,Back-to-School Blast,Influencer,2023-08-23,2023-09-23,8957.38,Young Adults,Multi-Channel,Bundle Deal,Customer Acquisition,31,9.100344686050612,9.10023305249434,Boost Summer Bonanza
+CAMP-1134,Super Sale,Social Media,2022-06-13,2022-09-01,21058.24,Students,Multi-Channel,Free Shipping,Conversions,80,9.95509469766738,9.9550472114455,Ignite Back-to-School Flash
+CAMP-1135,Flash Event,Print,2023-04-12,2023-06-22,7478.14,Seniors,Email Only,Free Shipping,Customer Acquisition,71,8.919873091096559,8.919739376945124,Inspire Spring Fest
+CAMP-1136,Summer Bonanza,Radio,2023-01-01,2023-04-01,142587.79,Budget Conscious,Email Only,BOGO,Brand Awareness,90,11.867720172371586,11.867713159172956,Voyage Winter Blast
+CAMP-1137,New Customer Deal,PPC,2024-04-08,2024-06-12,22246.85,Students,In-Store,Bundle Deal,Conversions,65,10.010000653712,10.009955704538271,Voyage Autumn Blast
+CAMP-1138,Super Blast,Email,2024-04-02,2024-06-17,13420.41,Young Adults,In-Store,Free Shipping,Traffic,76,9.504606472070598,9.504531961474784,Pulse Holiday Sale
+CAMP-1139,Super Deal,PPC,2022-01-18,2022-03-05,39415.71,Students,In-Store,Free Shipping,Customer Acquisition,46,10.581945117051216,10.581919746778425,Momentum Autumn Flash
+CAMP-1140,Summer Deal,TV,2024-01-17,2024-03-14,60242.7,Young Adults,Mobile,Free Shipping,Customer Acquisition,57,11.00615328157032,11.006136682186488,Momentum Winter Offer
+CAMP-1141,Winter Special,Print,2022-07-20,2022-09-22,13312.85,Families,Mobile,Bundle Deal,Conversions,64,9.496560125760995,9.496485013185989,Pulse Back-to-School Wave
+CAMP-1142,Super Deal,TV,2023-11-27,2023-12-15,147705.0,Professionals,In-Store,Free Shipping,Customer Acquisition,18,11.90297909057861,11.902972320350012,Inspire Holiday Offer
+CAMP-1143,Mega Sale,Affiliate,2022-05-18,2022-07-24,5764.35,Families,In-Store,Cashback,Revenue,67,8.659621142048515,8.659447676996951,Surge Autumn Blast
+CAMP-1144,Mega Deal,Radio,2022-10-06,2022-11-13,87519.63,Young Adults,In-Store,BOGO,Customer Acquisition,38,11.379629815984561,11.379618390041752,Ignite Back-to-School Event
+CAMP-1145,Spring Sale,Radio,2023-04-11,2023-06-12,173167.81,High Income,Online,Gift with Purchase,Brand Awareness,62,12.062022178062563,12.062016403333919,Pulse Holiday Flash
+CAMP-1146,Weekend Special,TV,2023-11-20,2023-12-02,77757.54,High Income,Email Only,BOGO,Customer Acquisition,12,11.26136366323789,11.261350802831428,Boost Summer Flash
+CAMP-1147,Summer Deal,Radio,2022-08-03,2022-08-24,154582.91,Seniors,Email Only,Free Shipping,Conversions,21,11.948492334686936,11.948485865687449,Revive Autumn Flash
+CAMP-1148,Black Friday Deal,Social Media,2023-10-11,2023-12-02,18621.91,Seniors,Mobile,Gift with Purchase,Conversions,52,9.832147822186112,9.832094123443563,Pulse Back-to-School Wave
+CAMP-1149,Fall Sale,Social Media,2023-10-26,2023-11-02,29249.18,Families,Mobile,Cashback,Brand Awareness,7,10.28364100648722,10.283606818079003,Ignite Summer Offer
+CAMP-1150,Winter Event,Print,2023-12-27,2024-02-29,5058.75,Professionals,In-Store,Discount,Customer Acquisition,64,8.529072353946315,8.528874696190075,Voyage Autumn Blast
+CAMP-1151,Spring Event,PPC,2023-06-14,2023-07-31,39616.78,Families,Multi-Channel,Free Shipping,Conversions,47,10.587033286375759,10.587008044864982,Surge Spring Fest
+CAMP-1152,Mega Promotion,Radio,2023-06-30,2023-07-07,117918.75,Seniors,In-Store,Bundle Deal,Customer Acquisition,7,11.677759587339505,11.677751106959922,Stride Back-to-School Wave
+CAMP-1153,New Customer Blast,TV,2022-02-26,2022-03-15,129168.82,Budget Conscious,Email Only,Gift with Purchase,Revenue,17,11.768883251712666,11.768875509936212,Inspire Winter Offer
+CAMP-1154,Black Friday Bonanza,TV,2022-04-09,2022-04-22,142153.68,Professionals,Mobile,Gift with Purchase,Customer Acquisition,13,11.864671039505891,11.864664004890377,Surge Holiday Event
+CAMP-1155,Loyalty Blast,Social Media,2022-02-26,2022-04-25,36671.72,Students,In-Store,Cashback,Traffic,58,10.50978843338953,10.50976116479221,Boost Winter Bonanza
+CAMP-1156,Loyalty Blast,Email,2023-11-01,2023-12-07,10861.53,Families,Email Only,BOGO,Customer Acquisition,36,9.293074531365,9.292982467542611,Inspire Spring Fest
+CAMP-1157,Back-to-School Special,Influencer,2024-08-21,2024-09-09,2958.65,Budget Conscious,Online,Bundle Deal,Revenue,19,7.992826297083579,7.992488362200414,Elevate Summer Blast
+CAMP-1158,Super Blast,PPC,2023-10-05,2023-12-19,30843.03,Professionals,Email Only,Gift with Purchase,Conversions,75,10.336698493588871,10.336666071878383,Stride Winter Flash
+CAMP-1159,Fall Promotion,Print,2022-06-13,2022-08-01,22831.63,High Income,Multi-Channel,Bundle Deal,Customer Acquisition,49,10.03594593218808,10.035902134259452,Inspire Winter Fest
+CAMP-1160,Loyalty Promotion,TV,2022-09-01,2022-10-25,61662.43,Professionals,Multi-Channel,Free Shipping,Brand Awareness,54,11.029446327528403,11.02943011032951,Momentum Autumn Event
+CAMP-1161,New Customer Sale,Affiliate,2023-07-21,2023-10-06,21445.29,Seniors,In-Store,Cashback,Revenue,77,9.973306949023833,9.973260319825272,Momentum Holiday Blast
+CAMP-1162,Holiday Promotion,Radio,2022-04-11,2022-05-20,67229.53,Professionals,Multi-Channel,Free Shipping,Customer Acquisition,39,11.115882738817403,11.115867864511976,Inspire Winter Wave
+CAMP-1163,Back-to-School Bonanza,Influencer,2023-09-27,2023-10-06,21296.03,Seniors,Mobile,BOGO,Customer Acquisition,9,9.966322905355609,9.966275949349152,Pulse Autumn Wave
+CAMP-1164,Loyalty Deal,Influencer,2023-08-31,2023-09-13,6504.02,Students,Online,Free Shipping,Revenue,13,8.78032946549991,8.780175726253669,Elevate Summer Blast
+CAMP-1165,Black Friday Special,Email,2022-08-06,2022-08-25,19768.38,High Income,Email Only,Free Shipping,Traffic,19,9.891889555025461,9.891838970470332,Revive Spring Flash
+CAMP-1166,Black Friday Deal,Social Media,2022-08-19,2022-11-06,40267.18,Students,Multi-Channel,Gift with Purchase,Customer Acquisition,79,10.603316857889984,10.603292024077854,Pulse Back-to-School Offer
+CAMP-1167,Flash Special,Radio,2023-03-22,2023-05-28,148124.03,Students,Multi-Channel,Gift with Purchase,Conversions,67,11.905811993403157,11.905805242326885,Boost Winter Blast
+CAMP-1168,Winter Deal,Affiliate,2024-05-02,2024-05-20,17454.84,Professionals,Mobile,Free Shipping,Brand Awareness,18,9.767429542128003,9.767372253069167,Surge Winter Bonanza
+CAMP-1169,Winter Deal,PPC,2022-01-07,2022-02-02,29989.71,Professionals,Online,Free Shipping,Conversions,26,10.308642946021003,10.308609601806337,Ignite Holiday Bonanza
+CAMP-1170,Holiday Promotion,Print,2022-01-14,2022-04-14,12283.5,Budget Conscious,Online,Cashback,Revenue,90,9.41609358408631,9.416012177378352,Elevate Holiday Event
+CAMP-1171,Loyalty Blast,Social Media,2023-01-11,2023-03-06,18185.28,Families,Online,BOGO,Traffic,54,9.808422742626147,9.808367754608023,Voyage Holiday Blast
+CAMP-1172,Super Deal,TV,2022-02-21,2022-03-26,146105.08,Budget Conscious,Mobile,Bundle Deal,Brand Awareness,33,11.892088212204861,11.8920813678393,Ignite Autumn Bonanza
+CAMP-1173,Super Sale,Influencer,2024-06-23,2024-08-07,18789.6,Families,Online,Bundle Deal,Revenue,45,9.841112023776358,9.841058804261815,Elevate Holiday Wave
+CAMP-1174,Black Friday Promotion,Email,2022-07-19,2022-08-11,22470.06,Seniors,Multi-Channel,Bundle Deal,Brand Awareness,23,10.019983538076508,10.019939035402778,Boost Autumn Sale
+CAMP-1175,Back-to-School Bonanza,PPC,2024-07-25,2024-08-15,40194.86,Budget Conscious,In-Store,BOGO,Traffic,21,10.601519284229159,10.60149440573572,Voyage Back-to-School Blast
+CAMP-1176,Weekend Blast,Influencer,2024-05-13,2024-06-04,21698.21,Budget Conscious,Email Only,Bundle Deal,Customer Acquisition,22,9.9850311333359,9.984985047646926,Stride Holiday Bonanza
+CAMP-1177,Fall Event,Print,2024-05-04,2024-07-15,19294.01,Families,Email Only,Free Shipping,Conversions,72,9.867601792240567,9.867549964026209,Elevate Winter Flash
+CAMP-1178,Mega Blast,PPC,2022-10-30,2023-01-12,25110.75,Families,Mobile,Gift with Purchase,Customer Acquisition,74,10.131091143072425,10.131051320283829,Inspire Summer Wave
+CAMP-1179,Fall Deal,TV,2022-09-15,2022-12-12,79161.72,Families,Email Only,BOGO,Customer Acquisition,88,11.279260759914461,11.279248127625978,Inspire Autumn Offer
+CAMP-1180,Mega Event,Email,2022-02-22,2022-03-01,1692.41,Students,Multi-Channel,Discount,Revenue,7,7.43449952647006,7.433908827597068,Revive Spring Sale
+CAMP-1181,Loyalty Sale,Affiliate,2023-10-06,2023-11-21,5380.78,Families,Multi-Channel,BOGO,Conversions,46,8.590774453453966,8.59058862405968,Inspire Holiday Wave
+CAMP-1182,Black Friday Deal,Print,2023-10-15,2023-11-19,7740.04,Families,Mobile,Gift with Purchase,Traffic,35,8.95429132448241,8.954162134529076,Pulse Summer Wave
+CAMP-1183,Back-to-School Deal,Email,2022-12-24,2023-02-13,23289.63,Professionals,Multi-Channel,Discount,Conversions,51,10.055806412748689,10.055763476105563,Inspire Summer Wave
+CAMP-1184,New Customer Promotion,Email,2024-02-11,2024-02-24,21100.96,Families,Multi-Channel,BOGO,Brand Awareness,13,9.957121206145317,9.957073816059504,Stride Back-to-School Event
+CAMP-1185,Flash Promotion,Influencer,2022-09-06,2022-11-13,9855.83,Professionals,Multi-Channel,Free Shipping,Conversions,68,9.195919894889952,9.195818437247922,Voyage Autumn Offer
+CAMP-1186,Weekend Promotion,TV,2022-06-26,2022-07-04,140143.26,Students,Mobile,Bundle Deal,Conversions,8,11.850427599635765,11.850420464105792,Inspire Winter Event
+CAMP-1187,Mega Sale,Email,2024-05-05,2024-07-17,15600.5,Families,In-Store,Gift with Purchase,Revenue,73,9.655122342461297,9.655058244006048,Ignite Back-to-School Sale
+CAMP-1188,Flash Promotion,Email,2022-05-14,2022-07-26,6503.42,Young Adults,Online,BOGO,Revenue,73,8.780237224788486,8.78008347135948,Surge Holiday Wave
+CAMP-1189,Weekend Special,Influencer,2024-01-13,2024-02-02,13331.01,Families,In-Store,Bundle Deal,Revenue,20,9.497923189502357,9.497848179244668,Surge Spring Blast
+CAMP-1190,Winter Special,Social Media,2024-09-10,2024-11-25,47335.29,Professionals,Multi-Channel,Gift with Purchase,Revenue,76,10.765032510753176,10.765011385089064,Revive Back-to-School Event
+CAMP-1191,Flash Sale,Email,2024-03-17,2024-04-24,13326.6,Professionals,Online,Cashback,Revenue,38,9.497592351951452,9.497517316872518,Voyage Back-to-School Sale
+CAMP-1192,Black Friday Special,Influencer,2023-12-04,2024-02-06,5085.1,Students,Email Only,Gift with Purchase,Revenue,64,8.534266607605526,8.534069973972676,Pulse Winter Sale
+CAMP-1193,Super Special,Affiliate,2023-04-20,2023-05-17,22665.19,Young Adults,Mobile,Cashback,Conversions,27,10.028629665857249,10.028585546309149,Revive Winter Sale
+CAMP-1194,Mega Event,Radio,2022-12-16,2023-03-05,55442.48,Families,Mobile,Bundle Deal,Brand Awareness,79,10.923119402456566,10.923101365908025,Momentum Winter Wave
+CAMP-1195,Summer Bonanza,PPC,2023-08-10,2023-10-04,13468.33,Budget Conscious,Email Only,Free Shipping,Customer Acquisition,55,9.508170528004001,9.508096282505285,Surge Spring Event
+CAMP-1196,Flash Deal,Print,2023-09-13,2023-10-08,15062.68,Professionals,In-Store,Free Shipping,Customer Acquisition,25,9.620041827413537,9.619975440369076,Elevate Autumn Event
+CAMP-1197,Back-to-School Promotion,PPC,2024-05-02,2024-07-26,37622.85,Seniors,In-Store,Discount,Traffic,85,10.53539343680001,10.53536685756132,Elevate Autumn Blast
+CAMP-1198,Weekend Blast,Affiliate,2022-02-01,2022-03-02,24589.57,High Income,Multi-Channel,Cashback,Traffic,29,10.110118315096116,10.110077648274098,Momentum Summer Bonanza
+CAMP-1199,Weekend Special,Print,2023-09-12,2023-11-30,7485.07,Families,Email Only,BOGO,Brand Awareness,79,8.920799239208794,8.920665648847407,Pulse Summer Fest
+CAMP-1200,Black Friday Deal,Social Media,2023-05-21,2023-07-15,8740.04,Seniors,Email Only,BOGO,Brand Awareness,55,9.075784454705472,9.075670045298148,Boost Autumn Event
+CAMP-1201,Mega Event,Email,2022-12-12,2023-01-20,8720.25,Families,Mobile,Gift with Purchase,Conversions,39,9.073517855253446,9.073403186216828,Pulse Back-to-School Wave
+CAMP-1202,Summer Sale,PPC,2023-09-24,2023-10-10,39476.22,High Income,Online,Cashback,Conversions,16,10.583479075667935,10.583453744282751,Inspire Autumn Flash
+CAMP-1203,Spring Sale,PPC,2022-02-03,2022-02-21,44984.82,Budget Conscious,Online,Discount,Brand Awareness,18,10.714102607983408,10.714080378509436,Revive Back-to-School Wave
+CAMP-1204,Weekend Event,PPC,2023-10-10,2023-12-29,42173.93,Professionals,Mobile,BOGO,Revenue,80,10.649581247661754,10.64955753661219,Momentum Winter Fest
+CAMP-1205,Mega Deal,Radio,2023-06-24,2023-08-31,91116.45,Students,Email Only,BOGO,Revenue,68,11.419904612654847,11.419893637748421,Voyage Autumn Sale
+CAMP-1206,Super Promotion,Email,2023-01-24,2023-03-07,19341.28,Students,Multi-Channel,Bundle Deal,Customer Acquisition,42,9.870048652441387,9.869996950891673,Elevate Summer Fest
+CAMP-1207,Flash Special,Radio,2024-06-09,2024-08-26,145790.35,Professionals,Multi-Channel,BOGO,Customer Acquisition,78,11.889931768950364,11.889924909809341,Ignite Summer Flash
+CAMP-1208,Weekend Sale,PPC,2022-12-30,2023-03-13,15823.77,Budget Conscious,Online,Gift with Purchase,Traffic,73,9.669331712941514,9.66926851887314,Voyage Autumn Fest
+CAMP-1209,Back-to-School Sale,Affiliate,2023-03-24,2023-04-16,20939.87,Families,Multi-Channel,Bundle Deal,Customer Acquisition,23,9.9494580308394,9.949410276191312,Revive Back-to-School Offer
+CAMP-1210,New Customer Event,TV,2024-04-07,2024-05-22,79002.37,Professionals,Multi-Channel,Free Shipping,Brand Awareness,45,11.27724578876717,11.277233130999168,Voyage Back-to-School Fest
+CAMP-1211,Back-to-School Sale,Social Media,2022-03-30,2022-04-28,10501.52,Professionals,Email Only,Bundle Deal,Brand Awareness,29,9.259370507350223,9.259275287573383,Pulse Back-to-School Wave
+CAMP-1212,Mega Blast,Print,2022-07-29,2022-10-25,17511.15,Budget Conscious,Online,Cashback,Conversions,88,9.770650204721063,9.770593099879413,Revive Summer Offer
+CAMP-1213,Mega Special,Social Media,2023-09-25,2023-11-13,42625.78,Young Adults,Email Only,Bundle Deal,Customer Acquisition,49,10.660237973244705,10.660214513538625,Elevate Holiday Fest
+CAMP-1214,Summer Bonanza,Email,2023-11-13,2024-01-28,4975.69,High Income,Multi-Channel,Free Shipping,Traffic,76,8.512520290400685,8.51231933344298,Surge Autumn Bonanza
+CAMP-1215,Flash Blast,PPC,2022-04-25,2022-07-19,39693.37,Budget Conscious,Mobile,BOGO,Brand Awareness,85,10.588964643016768,10.588939450209917,Ignite Summer Fest
+CAMP-1216,Weekend Bonanza,Social Media,2022-03-28,2022-06-21,29151.62,Budget Conscious,Email Only,Cashback,Conversions,85,10.28030006767107,10.280265764848492,Elevate Holiday Sale
+CAMP-1217,Winter Sale,TV,2024-08-17,2024-10-20,111789.81,High Income,Online,Free Shipping,Revenue,64,11.62438463596672,11.624375690647577,Revive Autumn Blast
+CAMP-1218,Fall Promotion,Email,2022-07-06,2022-09-11,17580.94,Young Adults,In-Store,BOGO,Traffic,67,9.774627517824252,9.77457063966181,Pulse Holiday Offer
+CAMP-1219,Black Friday Special,Email,2024-02-21,2024-03-13,17195.16,Young Adults,Online,Gift with Purchase,Revenue,21,9.752441382062301,9.752383227853608,Momentum Back-to-School Offer
+CAMP-1220,Super Special,TV,2024-06-13,2024-08-05,57293.49,Seniors,Email Only,Gift with Purchase,Brand Awareness,53,10.955959737520644,10.95594228368299,Voyage Holiday Flash
+CAMP-1221,Mega Special,Affiliate,2023-11-23,2023-12-15,15464.08,High Income,In-Store,BOGO,Conversions,22,9.646339858077015,9.646275194180527,Stride Autumn Blast
+CAMP-1222,Spring Event,TV,2022-05-15,2022-08-13,113039.53,Professionals,Online,Bundle Deal,Brand Awareness,90,11.63550170595322,11.635492859529524,Pulse Back-to-School Offer
+CAMP-1223,Loyalty Special,Affiliate,2022-07-29,2022-08-14,8766.04,Seniors,In-Store,Discount,Brand Awareness,16,9.078754514142338,9.078640444052988,Stride Winter Offer
+CAMP-1224,Weekend Blast,Affiliate,2023-09-11,2023-11-05,10596.21,Seniors,Multi-Channel,Free Shipping,Conversions,55,9.268346037907802,9.268251668995118,Pulse Winter Sale
+CAMP-1225,New Customer Sale,Print,2024-03-10,2024-04-10,4395.42,Seniors,Email Only,Free Shipping,Customer Acquisition,31,8.388545852360997,8.388318368693342,Boost Autumn Bonanza
+CAMP-1226,Super Promotion,Social Media,2022-03-10,2022-05-02,35887.56,Students,Email Only,Discount,Customer Acquisition,53,10.488173860739897,10.488145996319249,Revive Summer Bonanza
+CAMP-1227,Spring Promotion,Print,2023-01-26,2023-02-16,20117.22,Professionals,In-Store,Free Shipping,Traffic,21,9.909381151115156,9.909331443693032,Elevate Autumn Event
+CAMP-1228,Mega Promotion,PPC,2023-11-24,2024-02-12,22834.71,Seniors,Email Only,Discount,Customer Acquisition,80,10.03608081775671,10.036037025735522,Inspire Autumn Wave
+CAMP-1229,Flash Promotion,Influencer,2024-07-01,2024-09-21,4189.37,Professionals,Email Only,Cashback,Traffic,82,8.340544314506744,8.34030564361606,Pulse Holiday Sale
+CAMP-1230,Holiday Event,Influencer,2023-11-23,2024-02-18,4060.16,High Income,In-Store,Bundle Deal,Conversions,87,8.309223926072939,8.308977660686264,Stride Summer Bonanza
+CAMP-1231,Weekend Sale,Affiliate,2023-04-17,2023-07-02,2970.19,Budget Conscious,Mobile,Bundle Deal,Brand Awareness,76,7.9967178249492665,7.996381202814529,Momentum Back-to-School Sale
+CAMP-1232,Summer Deal,Social Media,2022-01-31,2022-04-15,8382.1,Students,Mobile,Discount,Conversions,74,9.033973053470442,9.033853758740742,Surge Back-to-School Event
+CAMP-1233,Back-to-School Special,Influencer,2023-08-22,2023-10-21,3260.45,Families,Mobile,Free Shipping,Revenue,60,8.089927160749177,8.089620501644365,Momentum Holiday Event
+CAMP-1234,New Customer Deal,Social Media,2023-06-24,2023-07-20,23172.68,High Income,Online,Gift with Purchase,Revenue,26,10.05077243088309,10.050729277548063,Revive Holiday Event
+CAMP-1235,Weekend Blast,Affiliate,2023-09-12,2023-09-19,13929.42,High Income,Email Only,Gift with Purchase,Revenue,7,9.541830217073095,9.541758429151812,Ignite Winter Bonanza
+CAMP-1236,New Customer Sale,Print,2023-09-17,2023-12-09,17431.23,Students,Online,Bundle Deal,Conversions,83,9.76607607066316,9.766018704010493,Inspire Autumn Offer
+CAMP-1237,Weekend Deal,Email,2023-01-14,2023-02-21,7191.6,Students,In-Store,Free Shipping,Customer Acquisition,38,8.88080799870062,8.88066895725214,Inspire Summer Wave
+CAMP-1238,New Customer Special,Influencer,2023-05-09,2023-05-31,15889.6,Seniors,Multi-Channel,Free Shipping,Traffic,22,9.673483018415117,9.673420086149093,Elevate Spring Fest
+CAMP-1239,Back-to-School Special,TV,2022-05-26,2022-06-20,74841.22,Young Adults,In-Store,Free Shipping,Revenue,25,11.223137443229747,11.223124081698238,Stride Autumn Event
+CAMP-1240,Winter Event,PPC,2022-07-11,2022-08-14,30619.6,Budget Conscious,In-Store,Gift with Purchase,Conversions,34,10.329428264055618,10.329395605769065,Inspire Back-to-School Event
+CAMP-1241,Weekend Blast,Email,2024-09-03,2024-09-21,1310.01,Young Adults,Online,Bundle Deal,Traffic,18,7.1785531114996735,7.177790049753848,Elevate Holiday Fest
+CAMP-1242,Super Promotion,Radio,2023-08-20,2023-11-18,98101.31,Young Adults,Email Only,Cashback,Revenue,90,11.49376619267683,11.493755999184987,Ignite Summer Bonanza
+CAMP-1243,Loyalty Deal,Print,2023-10-31,2024-01-24,14754.78,Families,Email Only,Bundle Deal,Brand Awareness,85,9.59939014941594,9.599322377065949,Inspire Holiday Wave
+CAMP-1244,Weekend Special,Influencer,2022-12-16,2023-01-05,20937.83,Professionals,Online,Discount,Conversions,20,9.94936060893802,9.949312849637247,Pulse Spring Sale
+CAMP-1245,New Customer Sale,Influencer,2023-09-20,2023-10-03,13928.67,High Income,In-Store,Free Shipping,Traffic,13,9.54177637661528,9.541704584828661,Momentum Back-to-School Event
+CAMP-1246,Flash Event,Social Media,2024-09-10,2024-12-05,9745.61,Seniors,Online,Gift with Purchase,Traffic,86,9.184674811225216,9.184572206185782,Inspire Winter Event
+CAMP-1247,Loyalty Special,Radio,2024-02-20,2024-05-11,75594.42,Students,Email Only,Gift with Purchase,Traffic,81,11.233150978321879,11.233137749919758,Pulse Spring Wave
+CAMP-1248,Loyalty Special,TV,2023-04-10,2023-06-26,65788.06,Young Adults,In-Store,Free Shipping,Conversions,77,11.094208842092273,11.094193641881173,Inspire Spring Bonanza
+CAMP-1249,Weekend Blast,Influencer,2024-09-20,2024-12-18,14569.89,Professionals,Multi-Channel,Discount,Brand Awareness,89,9.586780981743715,9.58671234940097,Voyage Winter Fest

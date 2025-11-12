@@ -1,34 +1,36 @@
 # Julius AI Workshop – Setup Instructions
 
-## Important Links
-
-- **Event page:** [PyLadies Hamburg Meetup](https://www.meetup.com/pyladies-hamburg/events/311539192/)  
-- **Livestream:** [YouTube – Watch Here](https://www.youtube.com/watch?v=pUIsYNUvTkE)  
-- **GitHub Repository:** [Workshop Materials](https://github.com/pyladieshamburg/low-code-data-analytics-nov2025)  
-- **Julius AI Platform:** [https://julius.ai/](https://julius.ai/)
-
 ---
 
 ## Setup Workflow
 
-1. **Go to the Julius AI website:**  
-   [https://julius.ai/](https://julius.ai/)
+### 1. Open Julius AI  
+https://julius.ai/
 
-2. **Create or log into your Julius Account:**  
-   - If you don’t have an account yet, create one using your email or Google account.  
-   - If you already have an account, simply log in.
+### 2. Create or log into your Julius account  
+You can sign up with email or Google.  
+If you already have an account, simply log in.
 
-3. **Access your account settings:**  
-   - Click on your **profile icon (top left corner)**.  
-   - Choose **“Account”** from the dropdown menu.
+### 3. Activate workshop access  
+- Click your profile icon in the top left.  
+- Open **Account**.  
+- Choose **Upgrade Plan**.  
+- Enter the Institutional Code: PYLADIES  
+- Confirm the upgrade.  
+This enables full functionality for the workshop.
 
-4. **Upgrade your plan (Free):**  
-   - In your account settings, go to **“Upgrade Plan”**.  
-   - Add the **Institutional Code:** `PYLADIES`  
-   - Confirm the upgrade.
+### 4. Download the dataset  
+Go to the `data` folder in this repository and download all four `.csv` files (the CLV dataset).  
+Keep them ready for upload in the next step.
 
-5. **Open the workshop notebook:**  
-   - Click on this link: **[JuliusAI Notebook Link](https://julius.ai/s/notebooks/051c3789-f5ec-4e69-a0e7-e7e5f9a36656?utm_source=share&utm_campaign=notebooks&utm_medium=referral)**  
-   - Once the notebook opens, click **“Duplicate”** to create your own editable copy.
+### 5. Open the workshop notebook  
+Click this link:  **[JuliusAI Notebook Link](https://julius.ai/s/notebooks/051c3789-f5ec-4e69-a0e7-e7e5f9a36656?utm_source=share&utm_campaign=notebooks&utm_medium=referral)**  
+When the notebook opens, select **Duplicate** to create an editable copy for yourself.
 
-You’re now ready to start the Julius AI workshop.
+### 6. Load your data into the notebook  
+In your duplicated notebook, scroll to the section **Load Your Data**.  
+- Select **Add data sources**  
+- Upload all four `.csv` files you downloaded  
+After uploading, the files will be available throughout the notebook steps.
+
+You’re now ready to start working with Julius AI.
