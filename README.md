@@ -49,7 +49,6 @@ Included:
 ds_workflow.pdf  
 Exploration_guide.pdf  
 julius_ai_platform_overview.pdf  
-Setup_Instructions.pdf  
 
 ---
 
