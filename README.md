@@ -2,6 +2,10 @@
 AI for Non-Data Scientists: The Low-Code Path to Data-Driven Decisions  
 Hosted by PyLadies
 
+<a href="https://hamburg.pyladies.com/">
+  <img src="https://hamburg.pyladies.com/images/pyladies_hamburg_2021.png" width="140">
+</a>
+<img src="https://hamburg.pyladies.com/images/logo.png" width="160">
 ---
 
 ## Promo Code for Julius AI  
