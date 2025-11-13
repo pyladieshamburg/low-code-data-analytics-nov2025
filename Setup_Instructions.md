@@ -24,7 +24,7 @@ Go to the `data` folder in this repository and download all four `.csv` files (t
 Keep them ready for upload in the next step.
 
 ### 5. Open the workshop notebook  
-Click this link:  **[JuliusAI Notebook Link](https://julius.ai/s/notebooks/051c3789-f5ec-4e69-a0e7-e7e5f9a36656?utm_source=share&utm_campaign=notebooks&utm_medium=referral)**  
+Click this link:  **[JuliusAI Notebook Link](https://julius.ai/s/notebooks/03e39a7f-cc15-4c27-8964-46927abdab57?utm_source=share&utm_campaign=notebooks&utm_medium=referral)**  
 When the notebook opens, select **Duplicate** to create an editable copy for yourself.
 
 ### 6. Load your data into the notebook  
