@@ -1,6 +1,8 @@
 # AI for Non-Data Scientists
-The Low-Code Path to Data-Driven Decisions  
-Hosted by PyLadies
+### The Low-Code Path to Data-Driven Decisions  
+
+This workshop introduces a practical, low-code approach to working with data, designed for people without a data science background. Using Julius.ai as an example platform, we explore how AI can help make data exploration, pattern discovery, visualization, and interpretation more accessible, so you can work with data confidently without deep technical skills.
+
 
 <a href="https://hamburg.pyladies.com/">
   <img src="https://hamburg.pyladies.com/images/pyladies_hamburg_2021.png" width="140">
