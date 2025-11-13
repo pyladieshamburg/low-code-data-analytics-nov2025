@@ -13,7 +13,7 @@ This workshop introduces a practical, low-code approach to working with data, de
 
 ## Promo Code for Julius AI  
 If you want to continue using Julius **after the Workshop**, you can use this code for a 50% discount on paid plans: **STUDY2025**
-##### For the workshop itself, we use a separate free access code: **PYLADIES**
+#### For the workshop itself, we use a separate free access code: **PYLADIES**
 
 ---
 
