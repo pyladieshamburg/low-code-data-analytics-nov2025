@@ -1,5 +1,5 @@
-# Welcome to the Workshop  
-AI for Non-Data Scientists: The Low-Code Path to Data-Driven Decisions  
+# AI for Non-Data Scientists
+The Low-Code Path to Data-Driven Decisions  
 Hosted by PyLadies
 
 <a href="https://hamburg.pyladies.com/">
